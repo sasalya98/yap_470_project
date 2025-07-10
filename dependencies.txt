@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+joblib
+gensim
+nltk
+fuzzywuzzy
+squarify
+stanza
+tensorflow
+torch
+vaderSentiment
+xgboost
